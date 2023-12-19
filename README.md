@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @salmannoushad
 - 👀 I’m interested in full stack developer
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on React.js project with Django
+- 💞️ I’m looking to collaborate on React.js project with Node.js
 - 📫 How to reach me https://www.linkedin.com/in/md-abu-salman-4043401b8/
 
 <!---
