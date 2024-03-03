@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @salmannoushad
-- 👀 I’m interested in full stack developer
-- 💞️ I’m looking to collaborate on React.js project with Node.js
-- 📫 How to reach me https://www.linkedin.com/in/md-abu-salman-4043401b8/
+# Welcome to My GitHub Profile! 
 
-<!---
-salmannoushad/salmannoushad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a proficient full stack developer with expertise in React, Node.js, MongoDB, Redis, Nginx, Kubernetes, and Docker. Passionate about creating efficient and scalable web applications, I'm always eager to collaborate on innovative projects.
+
+## Get in Touch
+Let's connect and bring ideas to life! Connect on [LinkedIn](https://www.linkedin.com/in/your_profile).
+
+Let's build something amazing together! 
